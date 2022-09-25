@@ -160,14 +160,14 @@ img {
   padding: 0.8rem 2.5rem;
   border-radius: 3rem;
   background-color: var(--color-primary);
-  color: #222;
+  color: rgb(217, 208, 208);
 }
 
 .nav__link--btn:hover,
 .nav__link--btn:active {
   color: inherit;
   background-color: var(--color-primary-darker);
-  color: #333;
+  color: #56544c;
 }
 
 /* HEADER */
@@ -533,7 +533,7 @@ h4 {
 }
 
 .section--sign-up .section__header {
-  color: rgb(33, 33, 39);
+  color: rgb(210, 210, 215);
   text-align: center;
 }
 
@@ -549,7 +549,7 @@ h4 {
 /* FOOTER */
 .footer {
   padding: 10rem 3rem;
-  background-color: #37383d;
+  background-color: #212123;
 }
 
 .footer__nav {
@@ -565,7 +565,7 @@ h4 {
 
 .footer__link {
   font-size: 1.6rem;
-  color: rgb(238, 238, 238);
+  color: rgb(220, 202, 202);
   text-decoration: none;
 }
 
@@ -578,7 +578,7 @@ h4 {
 
 .footer__copyright {
   font-size: 1.4rem;
-  color: #aaa;
+  color: rgb(160, 136, 136);
   text-align: center;
 }
 
